@@ -1,0 +1,2 @@
+rootProject.name = "Work From Home concept"
+include ':app'

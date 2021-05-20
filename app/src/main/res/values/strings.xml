@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Work From Home concept.</string>
+    <string name="welcome_message">Dara rules!</string>
+    <string name="activity_generator_button_text">Activity Generator</string>
+    <string name="welcome_activity_generator">Welcome to Activity Generator</string>
+    <string name="generate_activity">Generate</string>
+    <string name="supervisor_button">Supervisor</string>
+</resources>
